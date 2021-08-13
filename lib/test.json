@@ -1,0 +1,11 @@
+[
+    {
+        "firstname": "Tim",
+        "lastname": "Gosnell",
+        "email": "tim.gosnell@whiterabbitintel.com",
+        "Industry": "Technology",
+        "Occupation": "Entrepreneur",
+        "company": "White Rabbit Intel",
+        "status":"sold"
+    }
+]

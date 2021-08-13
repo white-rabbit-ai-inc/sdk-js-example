@@ -1,0 +1,22 @@
+{
+  "name": "sdk-js-example",
+  "version": "1.0.0",
+  "description": "example use of the wri sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/white-rabbit-ai-inc/sdk-js-example.git"
+  },
+  "author": "Tim Gosnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/white-rabbit-ai-inc/sdk-js-example/issues"
+  },
+  "homepage": "https://github.com/white-rabbit-ai-inc/sdk-js-example#readme",
+  "dependencies": {
+    "wri-sdk": "^1.1.8"
+  }
+}
