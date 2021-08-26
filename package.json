@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/white-rabbit-ai-inc/sdk-js-example#readme",
   "dependencies": {
-    "wri-sdk": "^1.1.8"
+    "wri-sdk": "^1.1.10"
   }
 }
